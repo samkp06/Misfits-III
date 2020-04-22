@@ -1,7 +1,6 @@
 ---
 title: "Society"
 date: 2020-04-22T16:00:00+05:30
-draft: true
 description: "The world of misfits"
 categories: ["misfits"]
 ---
