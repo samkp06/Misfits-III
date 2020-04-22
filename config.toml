@@ -1,0 +1,10 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Sam Designs"
+theme = "aether"
+# googleAnalytics = "Your google analytics tracking ID - optional"
+
+[params]
+brand = "sam"
+description = "A collection of illustrations by @sam.v"
+bgimg = "img/background.png"
