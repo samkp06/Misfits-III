@@ -1,0 +1,20 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Series - Sam Designs</title>
+    <link>http://example.org/series/</link>
+    <description>Recent content in Series on Sam Designs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+        <atom:link href="http://example.org/series/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title></title>
+      <link>http://example.org/series/misfits/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/series/misfits/</guid>
+      <description>A series of illustrations by @sam.v</description>
+    </item>
+  </channel>
+</rss>
