@@ -8,3 +8,6 @@ theme = "aether"
 brand = "sam"
 description = "A collection of illustrations by @sam.v"
 bgimg = "img/background.png"
+
+[markup.goldmark.renderer]
+unsafe= true
